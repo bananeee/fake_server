@@ -1,6 +1,9 @@
 {
-    "data": {
-        "name": "minh",
-        "age": 14
-    }
+    // "data": {
+    //     "name": "minh",
+    //     "age": 14
+    // }
+
+    "name": "minh",
+    "age": 14
 }
